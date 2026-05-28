@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Car Price Prediction</title>
+</head>
+<body>
+    <h2>Car Price Prediction</h2>
+    <form method="POST" action="/predict">
+        Age: <input type="text" name="age"><br><br>
+        Annual Salary: <input type="text" name="salary"><br><br>
+        Credit Card Debt: <input type="text" name="debt"><br><br>
+        Net Worth: <input type="text" name="net_worth"><br><br>
+        <input type="submit" value="Predict">
+    </form>
+
+    <h3>{{ prediction_text }}</h3>
+</body>
+</html>

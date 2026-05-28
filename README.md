@@ -7,7 +7,7 @@
   <img width="1179" height="677" alt="project-sc5" src="https://github.com/user-attachments/assets/6fa4dcea-7769-4a29-bc28-b889cb20112e" />
  
 ## Overview
-This project predicts car prices using Mach
+This project predicts car prices using Machine Learning 
 ## Features
 - Price prediction
 - Data visualization
